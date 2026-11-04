@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ogretmen-defteri-v3';
+const CACHE_NAME = 'ogretmen-defteri-v4';
 const ASSETS = [
   './',
   './index.html',
